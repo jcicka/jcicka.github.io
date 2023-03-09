@@ -1,0 +1,90 @@
+h1 {
+    color:white;
+    text-align: center;
+    border-style: double;
+    padding: 30px;
+}
+
+h2 {
+    color:white;
+}
+
+li {
+    color:white;
+}
+
+label {
+    color:white;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-size: cover;
+    background-image:url(/imagen/fondo.jpg) ;
+}
+
+.form_contacto {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.control {
+    width: 100%;
+    border-radius: 4%;
+    margin-bottom: 16px;
+    background:burlywood;
+    border: 10px solid : black;
+    font-size: 14px;
+}
+.boton {
+    color:black;
+    background: grey;
+}
+/**
+img {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+*/
+#barra_nav {
+    color:white;
+    text-align: center;
+    padding: 25px;
+    font-size: 170%;
+}
+a {
+    color:white;
+}
+  .center {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+.pie_index {
+    text-align: center;
+    padding: 15px;
+    font-size: 170%;
+}
+
+.cuerpo {
+    padding: 3%;
+}
+
+.boton {
+    width: 100%;
+    padding: 10px;
+    margin: 16px 0;
+    font-size: 16px;
+    font-style:initial;
+    
+}

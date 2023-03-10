@@ -71,9 +71,11 @@ a {
   }
 
 .pie_index {
+    color:white;
+    margin: 10px;
     text-align: center;
     padding: 15px;
-    font-size: 170%;
+    font-size: 24Px;
 }
 
 .cuerpo {
@@ -87,4 +89,25 @@ a {
     font-size: 16px;
     font-style:initial;
     
+}
+
+ul {
+    margin: 0%;
+    padding: 5;
+}
+
+.redes_sociales{
+    display: flex;
+    height: 100hv;
+    align-items: center;
+    justify-content: center;
+}
+
+.pie_de_pag {
+    padding: 5px;
+    margin: 10px;
+}
+
+.iconos {
+    width: 50px;
 }
